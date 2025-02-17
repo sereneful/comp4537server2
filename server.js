@@ -1,3 +1,9 @@
+/**
+ * AI DISCLAIMER:
+ * This code includes function-level comments generated with the assistance of ChatGPT.
+ * ChatGPT was used to identify and explain bugs in code durring debugging process.
+ */
+
 const url = require('url');
 const http = require('http');
 const messages = require('./lang/en/en.js')
